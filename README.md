@@ -10,6 +10,12 @@
   </a>
 </p>
 
+<h2 align = "center">Most Used Languages 📚</h2>
+<br>
+<p aling = "center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatan192001&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10" />
+</p>
+
 <!--
 **Jhonatan192001/Jhonatan192001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
