@@ -12,8 +12,8 @@
 
 <h2 align = "center">Most Used Languages 📚</h2>
 <br>
-<p aling = "center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatan192001&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10" />
+<p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatan192001&theme=dark&hide_border=true&no-bg=true&no-frame=true&show_icons=true&locale=en&layout=compact" />
 </p>
 
 <!--
