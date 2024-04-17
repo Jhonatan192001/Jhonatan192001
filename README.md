@@ -4,7 +4,7 @@
 </p>
 
 <h2 align = "center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2>
-<p>
+<p align = "center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,figma,html,css,js,mysql,php,react,tailwind,bootstrap&perline=8" />
   </a>
